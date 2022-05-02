@@ -1,6 +1,10 @@
-1. INFO5100FinalProject  
-2. Team Member: Huanlin Xiao, Mengdi Yu, Jiawei Qian  
-3. User Instruction:  
+INFO5100FinalProject  
+Team Member: Huanlin Xiao, Mengdi Yu, Jiawei Qian  
+
+IDE: Apache NetBeans 12.5  
+Change file: /Applications/NetBeans/Apache NetBeans 12.5.app/Contents/Resources/NetBeans/netbeans/etc/netbeans.conf  
+JDK: openjdk-17.0.2
+
 Account Information：  
 derek@gmail.com Accountant  
 peter@gmail.com Accountant  
@@ -26,26 +30,20 @@ james@gmail.com TransportationManager
 derek@gmail.com TransportationManager
 derek@gmail.com MarketingManager
 
-Procedure：  
-1.MarketingManager-Purchase Order
-Purchaser-Order
-Purchaser-PurchaseOrder
-Purchaser-Order
-QualityManager-Purchase Order  
-2.
-Customer-Order/Email
-MarketingManager-Order
-InventoryManager-Warehouse Entry
-TransportationManager-Deliver Order  
-3.
-CustomerService  
-4.
-Refund  
-5.
-
-
-Role 
-
-
-DataValidation
-Accountant-Refund cannot exceed order amount
+Presented Work Requests：  
+1. From farmer to market  
+MarketingManager-Purchase Order  
+Purchaser-Order  
+Purchaser-PurchaseOrder  
+Purchaser-Order  
+QualityManager-Purchase Order    
+2. From warehouse to customer  
+Customer-Order (Email Notification)  
+MarketingManager-Order  
+InventoryManager-Warehouse Entry  
+TransportationManager-Deliver Order    
+3. Independent roles  
+Accountant-refund (Data Validation-Refund cannot exceed order amount)  
+CustomerService-ticket  
+Maintainer-vehicle  
+Auditor-Data (Data Visualization)
