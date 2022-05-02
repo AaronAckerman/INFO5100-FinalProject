@@ -46,4 +46,5 @@ TransportationManager-Deliver Order
 Accountant-refund (Data Validation-Refund cannot exceed order amount)  
 CustomerService-ticket  
 Maintainer-vehicle  
-Auditor-Data (Data Visualization)
+Administrator  
+Auditor-Data (Data Visualization) 
